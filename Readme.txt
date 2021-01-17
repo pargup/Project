@@ -1,2 +1,2 @@
 This is my Git-Project!!
-adding content for feature1 branch!!
+adding more content for feature1 branch!!
